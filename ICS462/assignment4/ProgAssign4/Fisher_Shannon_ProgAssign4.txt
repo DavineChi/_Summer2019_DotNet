@@ -1,0 +1,15 @@
+Shannon Fisher
+ICS 462 Programming Assignment 4
+
+Address 19986 contains:
+  Page number = 4
+  Offset = 3602
+
+Address 347892 contains:
+  Page number = 84
+  Offset = 3828
+
+Address 5978 contains:
+  Page number = 1
+  Offset = 1882
+
