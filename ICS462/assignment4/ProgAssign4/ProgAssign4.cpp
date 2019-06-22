@@ -47,7 +47,7 @@ int main(int argc, char *argv[])
 		// 32-bit addressing = 2^32; size of a page is a power of 2
 		// Page size for this assignment is 4-KB (4096 bytes) or 2^12
 
-		// Bit-shift the address to the right by 12-bits,
+		// Bit-shift the address to the right by 12-bits (divide it by 2^12);
 		// first 20 bits gives the page number
 		pageNumber = address >> 12;
 
